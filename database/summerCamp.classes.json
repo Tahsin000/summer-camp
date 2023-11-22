@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "649f797ef6358007dc8a6427"
+  },
+  "name": "Figure Drawing",
+  "instructorName": "Olivia Johnson",
+  "instructorEmail": "oliviajohnson@example.com",
+  "availableSeats": 10,
+  "price": 21,
+  "image": "https://i.ibb.co/FhmKdDc/image.png",
+  "status": "approved",
+  "feedBack": ""
+},
+{
+  "_id": {
+    "$oid": "649f79aef6358007dc8a6428"
+  },
+  "name": "Portrait Drawing",
+  "instructorName": "Olivia Johnson",
+  "instructorEmail": "oliviajohnson@example.com",
+  "availableSeats": 5,
+  "price": 16,
+  "image": "https://i.ibb.co/8KRTGG1/image-1.png",
+  "status": "approved",
+  "feedBack": ""
+},
+{
+  "_id": {
+    "$oid": "649f79cdf6358007dc8a6429"
+  },
+  "name": "Sketching Workshop",
+  "instructorName": "Olivia Johnson",
+  "instructorEmail": "oliviajohnson@example.com",
+  "availableSeats": 7,
+  "price": 21,
+  "image": "https://i.ibb.co/g9NVWTm/image-2.png",
+  "status": "approved",
+  "feedBack": ""
+},
+{
+  "_id": {
+    "$oid": "649f7a14f6358007dc8a642a"
+  },
+  "name": "Watercolor Painting",
+  "instructorName": "Emily Brown",
+  "instructorEmail": "emilybrown@example.com",
+  "availableSeats": 5,
+  "price": 16,
+  "image": "https://i.ibb.co/7yhbYKG/image-7.png",
+  "status": "approved",
+  "feedBack": ""
+},
+{
+  "_id": {
+    "$oid": "649f7a87f6358007dc8a642b"
+  },
+  "name": "Digital Art Workshop",
+  "instructorName": "Emily Brown",
+  "instructorEmail": "emilybrown@example.com",
+  "availableSeats": 3,
+  "price": 19,
+  "image": "https://i.ibb.co/18cvYLS/image-6.png",
+  "status": "approved",
+  "feedBack": ""
+},
+{
+  "_id": {
+    "$oid": "649f7addf6358007dc8a642c"
+  },
+  "name": "Ink Drawing",
+  "instructorName": "David Thompson",
+  "instructorEmail": "davidthompson@example.com",
+  "availableSeats": 6,
+  "price": 21,
+  "image": "https://i.ibb.co/dD6rdZz/image-5.png",
+  "status": "approved",
+  "feedBack": ""
+},
+{
+  "_id": {
+    "$oid": "649f7beef6358007dc8a642d"
+  },
+  "name": "Cartooning Workshop",
+  "instructorName": "David Thompson",
+  "instructorEmail": "davidthompson@example.com",
+  "availableSeats": 14,
+  "price": 18,
+  "image": "https://i.ibb.co/CnSyFFJ/image-4.png",
+  "status": "approved",
+  "feedBack": ""
+},
+{
+  "_id": {
+    "$oid": "64a1c74ff11a211d8e58e6f1"
+  },
+  "name": "Perspective Drawing",
+  "instructorName": "Alex Johnson",
+  "instructorEmail": "alexjohnson@example.com",
+  "availableSeats": 7,
+  "price": 22,
+  "image": "https://i.ibb.co/dgSxbrW/image-9.png",
+  "status": "approved",
+  "feedBack": ""
+},
+{
+  "_id": {
+    "$oid": "64cfbdef6cf360974fb4cb4d"
+  },
+  "name": "Brian Gordon",
+  "instructorName": "Alex Johnson",
+  "instructorEmail": "alexjohnson@example.com",
+  "availableSeats": 82,
+  "price": "301",
+  "image": "Non sint aut archite",
+  "status": "approved",
+  "feedBack": ""
+}]

@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "64b2d23d46589c63eb1ff44c"
+  },
+  "classItemId": "649f797ef6358007dc8a6427",
+  "name": "Figure Drawing",
+  "image": "https://i.ibb.co/FhmKdDc/image.png",
+  "price": 21,
+  "email": "montasiral724@gmail.com",
+  "instructorName": "Olivia Johnson",
+  "availableSeats": 10
+},
+{
+  "_id": {
+    "$oid": "64b2d28946589c63eb1ff44d"
+  },
+  "classItemId": "649f79aef6358007dc8a6428",
+  "name": "Portrait Drawing",
+  "image": "https://i.ibb.co/8KRTGG1/image-1.png",
+  "price": 16,
+  "email": "montasiral724@gmail.com",
+  "instructorName": "Olivia Johnson",
+  "availableSeats": 5
+},
+{
+  "_id": {
+    "$oid": "64b6e58a9c249d9653035b29"
+  },
+  "classItemId": "649f797ef6358007dc8a6427",
+  "name": "Figure Drawing",
+  "image": "https://i.ibb.co/FhmKdDc/image.png",
+  "price": 21,
+  "email": "alrafi4@gmail.com",
+  "instructorName": "Olivia Johnson",
+  "availableSeats": 10
+},
+{
+  "_id": {
+    "$oid": "655da2fac1dee07ba9832e30"
+  },
+  "classItemId": "649f797ef6358007dc8a6427",
+  "name": "Figure Drawing",
+  "image": "https://i.ibb.co/FhmKdDc/image.png",
+  "price": 21,
+  "email": "tahsin.blendin@gmail.com",
+  "instructorName": "Olivia Johnson",
+  "availableSeats": 10
+}]
